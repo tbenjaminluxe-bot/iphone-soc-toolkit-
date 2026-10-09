@@ -1,0 +1,4 @@
+Timestamp,Alert_Type,Source_IP,IoC_URL,File_Hash,Risk_Score,Severity,Analyst_Action,Device
+2026-10-09 13:56:34,Phishing Click,192.168.1.10,http://evil.com/malware.exe,5d41402abc4b2a76b9719d911017c592,110,CRITICAL,"BLOCK domain, Reset MFA, Report CIRT",iPhone-iSH
+2026-10-09 14:10:00,Email Phishing,45.33.32.156,http://evil.com/login,abc123def456,95,HIGH,"Quarantine email, Block sender IP",iPhone-iSH
+2026-10-09 14:30:00,Benign DNS Lookup,8.8.8.8,https://google.com,none,5,LOW,"No action - verified clean",iPhone-iSH
