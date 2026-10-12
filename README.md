@@ -21,3 +21,18 @@ LinkedIn: https://www.linkedin.com/in/roland-benjamin-6324ab440?trk=contact-info
 
 ---
 ⭐ If you are SOC Lead hiring Tier 1, let's connect — I learn fast and I build under constraints.
+
+## 🔥 New Tools - Built Tonight 1 AM on iPhone
+
+### IR-008: Phishing & IOC Triage Analyzer
+- Extracts IP/URL/email/hash, detects brand impersonation, scores 0-100
+- Result: `MALICIOUS 100/100` for Microsoft phishing
+- File: `phishing_analyzer.py`
+
+### IR-009: Threat Intel Lookup
+- Checks IP/URL vs blocklist.txt + heuristics + ready for AbuseIPDB API
+- Verdict: MALICIOUS / SUSPICIOUS / CLEAN
+- File: `threat_intel_lookup.py`
+- Usage: `python3 threat_intel_lookup.py 8.8.8.8`
+
+Built on iSH Shell, iPhone, 11% -> 84% battery grind!
