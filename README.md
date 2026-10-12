@@ -17,7 +17,7 @@ Python3, Regex, Threat Intelligence, Incident Response, SIEM Logic
 
 ### 👨‍💻 Author
 **Roland** | NOC Engineer @ MTN | Aspiring SOC Analyst Tier 1 | Lagos, Nigeria
-LinkedIn: [Your LinkedIn URL here]
+LinkedIn: https://www.linkedin.com/in/roland-benjamin-6324ab440?trk=contact-info
 
 ---
 ⭐ If you are SOC Lead hiring Tier 1, let's connect — I learn fast and I build under constraints.
