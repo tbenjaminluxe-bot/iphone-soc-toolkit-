@@ -1,0 +1,13 @@
+SOC INCIDENT REPORT - 2026-10-12
+Analyst: Roland (iPhone SOC - Lagos)
+Tool: brute_force_detector.py v1
+
+Threat 1: 185.220.101.5 # 7 fails # TOR Exit DE # Brute Force
+Threat 2: 198.98.50.5 # 3 fails # TOR Exit US # Scanning
+Status: BLOCKED and LOGGED
+Logs:
+[09:07:18] Active threats: 2 IPs
+[09:08:27] Active threats: 2 IPs
+[09:09:27] ALERT TOR NODE DE
+
+Action: Added to blocklist.txt for firewall
